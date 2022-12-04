@@ -18,8 +18,4 @@ How to start
 1. Create Virtual Env
 2. Activate Virtual Env
 3. Pip install requirements.txt
-4. Run python Jarvis.py
-
-## Example
-
-<img src="asset/jarvis.png">
+4. Run python Jarvis.p
